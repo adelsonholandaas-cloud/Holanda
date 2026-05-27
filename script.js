@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "5500000000000";
+const WHATSAPP_NUMBER = "5581998721990";
 const WHATSAPP_MESSAGE = "Olá, vim pela landing page da Holanda Assessoria e gostaria de atendimento.";
 
 function buildWhatsAppUrl(number, message) {
