@@ -1,13 +1,37 @@
-# Holanda Assessoria
+# Adelson Elias — Portfólio
 
-Landing page profissional da Holanda Assessoria para GitHub Pages.
+Portfólio profissional de Adelson Elias, especialista em assessoria administrativa para IRPF, MEI e INSS.
 
-## Publicacao
+## Stack
 
-O site e estatico. Para publicar no GitHub Pages, use:
+- **Vite** + **React 19** + **TypeScript**
+- **Tailwind CSS v4** — estilização utilitária
+- **Framer Motion** — animações
+- **Lucide React** — ícones
+- **React Scroll** — navegação suave
+
+## Desenvolvimento local
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Publicação (GitHub Pages)
+
+Configure o repositório com:
 
 - Source: Deploy from a branch
 - Branch: `main`
-- Folder: `/ (root)`
+- Folder: `/ (root)` ou a pasta `dist/` após o build
 
-O telefone do WhatsApp fica em `script.js`, na constante `WHATSAPP_NUMBER`.
+## Contato
+
+- WhatsApp: +55 81 99872-1990
+- Instagram: [@adelsonholanda](https://instagram.com/adelsonholanda/)
